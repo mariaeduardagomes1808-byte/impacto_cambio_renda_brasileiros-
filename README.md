@@ -69,9 +69,6 @@ text
 
 How to Reproduce
 Requirements: R, RStudio (recommended), internet access, and the four Excel files above in the same folder as the .Rmd.
-Clone the repository:
-bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
 Open cambio-desigualdadeV2.Rmd in RStudio.
 Install the required packages:
 r
